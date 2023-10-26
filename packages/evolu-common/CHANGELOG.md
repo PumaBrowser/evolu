@@ -1,5 +1,11 @@
 # @evolu/common
 
+## 1.0.15
+
+### Patch Changes
+
+- db84a4e: Update deps
+
 ## 1.0.14
 
 ### Patch Changes
